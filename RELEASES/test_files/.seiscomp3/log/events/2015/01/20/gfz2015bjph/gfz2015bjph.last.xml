@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seiscomp xmlns="http://geofon.gfz-potsdam.de/ns/seiscomp3-schema/0.6" version="0.6">
+  <EventParameters>
+    <pick publicID="20150120.112903.94-AIC-PM.PBDV..HHZ">
+      <time>
+        <value>2015-01-20T11:29:03.947541Z</value>
+      </time>
+      <waveformID networkCode="PM" stationCode="PBDV" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:04.523054Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112905.61-AIC-PM.PCVE..HHZ">
+      <time>
+        <value>2015-01-20T11:29:05.617541Z</value>
+      </time>
+      <waveformID networkCode="PM" stationCode="PCVE" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:06.52653Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112906.21-AIC-PM.PNCL..HHZ">
+      <time>
+        <value>2015-01-20T11:29:06.217541Z</value>
+      </time>
+      <waveformID networkCode="PM" stationCode="PNCL" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:03.522223Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112906.91-AIC-PM.PVAQ..HHZ">
+      <time>
+        <value>2015-01-20T11:29:06.917541Z</value>
+      </time>
+      <waveformID networkCode="PM" stationCode="PVAQ" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:04.534928Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112910.71-AIC-ES.EGRO..HHZ">
+      <time>
+        <value>2015-01-20T11:29:10.717499Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="EGRO" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:06.538854Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112913.87-AIC-WM.EVO..HHZ">
+      <time>
+        <value>2015-01-20T11:29:13.877541Z</value>
+      </time>
+      <waveformID networkCode="WM" stationCode="EVO" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:29:59.524873Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112919.39-AIC-ES.EMIN..HHZ">
+      <time>
+        <value>2015-01-20T11:29:19.3952Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="EMIN" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:02.523422Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112923.11-AIC-ES.EBAD..HHZ">
+      <time>
+        <value>2015-01-20T11:29:23.1175Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="EBAD" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:05.528474Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112931.63-AIC-ES.ECEU..HHZ">
+      <time>
+        <value>2015-01-20T11:29:31.6352Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="ECEU" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:15.527908Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112933.63-AIC-ES.ECAB..HHZ">
+      <time>
+        <value>2015-01-20T11:29:33.6375Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="ECAB" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:16.525792Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112936.18-AIC-ES.EMIJ..HHZ">
+      <time>
+        <value>2015-01-20T11:29:36.1875Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="EMIJ" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:19.525039Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112942.66-AIC-ES.EADA..HHZ">
+      <time>
+        <value>2015-01-20T11:29:42.665199Z</value>
+      </time>
+      <waveformID networkCode="ES" stationCode="EADA" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:23.529266Z</creationTime>
+      </creationInfo>
+    </pick>
+    <pick publicID="20150120.112946.10-AIC-WM.IFR..HHZ">
+      <time>
+        <value>2015-01-20T11:29:46.107541Z</value>
+      </time>
+      <waveformID networkCode="WM" stationCode="IFR" channelCode="HHZ"/>
+      <methodID>AIC</methodID>
+      <phaseHint>P</phaseHint>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:25.528674Z</creationTime>
+      </creationInfo>
+    </pick>
+    <amplitude publicID="20150120.112942.66-AIC-ES.EADA..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>6.600170768e-06</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:39.0852Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>0.4513799812</snr>
+      <pickID>20150120.112942.66-AIC-ES.EADA..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="EADA" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:23.537315Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112923.11-AIC-ES.EBAD..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>3.430009942e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:26.1075Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.087584213</snr>
+      <pickID>20150120.112923.11-AIC-ES.EBAD..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="EBAD" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:05.537146Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112933.63-AIC-ES.ECAB..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>4.592360301e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:32.677499Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.157245289</snr>
+      <pickID>20150120.112933.63-AIC-ES.ECAB..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="ECAB" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:16.531533Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112931.63-AIC-ES.ECEU..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>3.161075619e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:30.535199Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>0.7879458638</snr>
+      <pickID>20150120.112931.63-AIC-ES.ECEU..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="ECEU" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:15.534683Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112910.71-AIC-ES.EGRO..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>3.172155117e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:08.397499Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>0.6990906194</snr>
+      <pickID>20150120.112910.71-AIC-ES.EGRO..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="EGRO" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:06.542599Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112936.18-AIC-ES.EMIJ..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>4.346628072e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:38.177499Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>0.9900278619</snr>
+      <pickID>20150120.112936.18-AIC-ES.EMIJ..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="EMIJ" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:19.531177Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112919.39-AIC-ES.EMIN..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>2.862735031e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:14.675199Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.26179871</snr>
+      <pickID>20150120.112919.39-AIC-ES.EMIN..HHZ</pickID>
+      <waveformID networkCode="ES" stationCode="EMIN" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:02.528118Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112903.94-AIC-PM.PBDV..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>0.0002118938632</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:05.587541Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.15526299</snr>
+      <pickID>20150120.112903.94-AIC-PM.PBDV..HHZ</pickID>
+      <waveformID networkCode="PM" stationCode="PBDV" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:04.529864Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112905.61-AIC-PM.PCVE..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>3.524556926e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:08.037541Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.152637191</snr>
+      <pickID>20150120.112905.61-AIC-PM.PCVE..HHZ</pickID>
+      <waveformID networkCode="PM" stationCode="PCVE" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:06.533769Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112906.21-AIC-PM.PNCL..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>3.041221406e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:01.957541Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>0.4988990121</snr>
+      <pickID>20150120.112906.21-AIC-PM.PNCL..HHZ</pickID>
+      <waveformID networkCode="PM" stationCode="PNCL" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:03.528514Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112906.91-AIC-PM.PVAQ..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>0.0001557546444</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:04.917541Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.498804582</snr>
+      <pickID>20150120.112906.91-AIC-PM.PVAQ..HHZ</pickID>
+      <waveformID networkCode="PM" stationCode="PVAQ" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:04.53858Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112913.87-AIC-WM.EVO..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>1.200000153e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:16.36754Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>0.929448973</snr>
+      <pickID>20150120.112913.87-AIC-WM.EVO..HHZ</pickID>
+      <waveformID networkCode="WM" stationCode="EVO" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:29:59.532978Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112946.10-AIC-WM.IFR..HHZ.Mpd">
+      <type>Mpd</type>
+      <amplitude>
+        <value>1.200000153e-05</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:42.83754Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <snr>1.721726994</snr>
+      <pickID>20150120.112946.10-AIC-WM.IFR..HHZ</pickID>
+      <waveformID networkCode="WM" stationCode="IFR" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:25.53255Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <amplitude publicID="20150120.112946.10-AIC-WM.IFR..HHZ.mb">
+      <type>mb</type>
+      <amplitude>
+        <value>2.800450387</value>
+      </amplitude>
+      <timeWindow>
+        <reference>2015-01-20T11:29:46.69754Z</reference>
+        <begin>0</begin>
+        <end>0</end>
+      </timeWindow>
+      <period>
+        <value>1.4425</value>
+      </period>
+      <snr>0.7404676216</snr>
+      <pickID>20150120.112946.10-AIC-WM.IFR..HHZ</pickID>
+      <waveformID networkCode="WM" stationCode="IFR" channelCode="HHZ"/>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautopick@sysop</author>
+        <creationTime>2015-01-20T11:30:45.526644Z</creationTime>
+      </creationInfo>
+    </amplitude>
+    <origin publicID="Origin#20150120113054.50166.538">
+      <time>
+        <value>2015-01-20T11:28:31.803603Z</value>
+        <uncertainty>2.879575323</uncertainty>
+      </time>
+      <latitude>
+        <value>36.44333267</value>
+        <uncertainty>8.94262719</uncertainty>
+      </latitude>
+      <longitude>
+        <value>-10.29110909</value>
+        <uncertainty>24.31897232</uncertainty>
+      </longitude>
+      <depth>
+        <value>75.43804169</value>
+        <uncertainty>46.99943899</uncertainty>
+      </depth>
+      <depthType>from location</depthType>
+      <methodID>LOCSAT</methodID>
+      <earthModelID>iasp91</earthModelID>
+      <quality>
+        <associatedPhaseCount>13</associatedPhaseCount>
+        <usedPhaseCount>13</usedPhaseCount>
+        <associatedStationCount>13</associatedStationCount>
+        <usedStationCount>13</usedStationCount>
+        <standardError>0.3663255288</standardError>
+        <azimuthalGap>276.3414688</azimuthalGap>
+        <maximumDistance>5.143350601</maximumDistance>
+        <minimumDistance>2.05085063</minimumDistance>
+        <medianDistance>3.174980879</medianDistance>
+      </quality>
+      <evaluationMode>automatic</evaluationMode>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scautoloc@sysop</author>
+        <creationTime>2015-01-20T11:30:54.501609Z</creationTime>
+      </creationInfo>
+      <arrival>
+        <pickID>20150120.112903.94-AIC-PM.PBDV..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>66.34690857</azimuth>
+        <distance>2.05085063</distance>
+        <timeResidual>-0.3243560791</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112905.61-AIC-PM.PCVE..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>55.83395767</azimuth>
+        <distance>2.155508757</distance>
+        <timeResidual>-0.04391479492</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112906.21-AIC-PM.PNCL..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>39.5116272</azimuth>
+        <distance>2.179315805</distance>
+        <timeResidual>0.2726135254</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112906.91-AIC-PM.PVAQ..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>64.21029663</azimuth>
+        <distance>2.270575047</distance>
+        <timeResidual>-0.3123970032</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112910.71-AIC-ES.EGRO..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>63.22339249</azimuth>
+        <distance>2.493962288</distance>
+        <timeResidual>0.4731254578</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112913.87-AIC-WM.EVO..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>40.17694092</azimuth>
+        <distance>2.758168459</distance>
+        <timeResidual>0.1223449707</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112919.39-AIC-ES.EMIN..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>64.26916504</azimuth>
+        <distance>3.174980879</distance>
+        <timeResidual>-0.08746337891</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112923.11-AIC-ES.EBAD..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>47.32866287</azimuth>
+        <distance>3.47674036</distance>
+        <timeResidual>-0.418674469</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112931.63-AIC-ES.ECEU..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>96.37423706</azimuth>
+        <distance>4.00401783</distance>
+        <timeResidual>0.8092556</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112933.63-AIC-ES.ECAB..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>65.7149353</azimuth>
+        <distance>4.206716537</distance>
+        <timeResidual>0.08117675781</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112936.18-AIC-ES.EMIJ..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>86.79430389</azimuth>
+        <distance>4.436831951</distance>
+        <timeResidual>-0.5559082031</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112942.66-AIC-ES.EADA..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>67.51165771</azimuth>
+        <distance>4.859909058</distance>
+        <timeResidual>0.1764602661</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <arrival>
+        <pickID>20150120.112946.10-AIC-WM.IFR..HHZ</pickID>
+        <phase>P</phase>
+        <azimuth>123.1701584</azimuth>
+        <distance>5.143350601</distance>
+        <timeResidual>-0.2051124573</timeResidual>
+        <weight>1</weight>
+      </arrival>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.EADA">
+        <magnitude>
+          <value>3.860137093</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112942.66-AIC-ES.EADA..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="EADA" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.018419Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.EBAD">
+        <magnitude>
+          <value>4.335280188</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112923.11-AIC-ES.EBAD..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="EBAD" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.018795Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.ECAB">
+        <magnitude>
+          <value>4.59841004</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112933.63-AIC-ES.ECAB..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="ECAB" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.019123Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.ECEU">
+        <magnitude>
+          <value>4.400719874</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112931.63-AIC-ES.ECEU..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="ECEU" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.019445Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.EGRO">
+        <magnitude>
+          <value>4.068630817</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112910.71-AIC-ES.EGRO..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="EGRO" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.019762Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.EMIJ">
+        <magnitude>
+          <value>4.61289935</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112936.18-AIC-ES.EMIJ..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="EMIJ" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.020082Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#ES.EMIN">
+        <magnitude>
+          <value>4.192422298</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112919.39-AIC-ES.EMIN..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="ES" stationCode="EMIN" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.020452Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#PM.PBDV">
+        <magnitude>
+          <value>4.760963939</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112903.94-AIC-PM.PBDV..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="PM" stationCode="PBDV" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.020773Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#PM.PCVE">
+        <magnitude>
+          <value>4.015227107</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112905.61-AIC-PM.PCVE..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="PM" stationCode="PCVE" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.021099Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#PM.PNCL">
+        <magnitude>
+          <value>3.958555829</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112906.21-AIC-PM.PNCL..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="PM" stationCode="PNCL" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.021506Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#PM.PVAQ">
+        <magnitude>
+          <value>4.695654901</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112906.91-AIC-PM.PVAQ..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="PM" stationCode="PVAQ" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.021833Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#WM.EVO">
+        <magnitude>
+          <value>3.716126503</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112913.87-AIC-WM.EVO..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="WM" stationCode="EVO" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.022154Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.Mpd#WM.IFR">
+        <magnitude>
+          <value>4.160855903</value>
+        </magnitude>
+        <type>Mpd</type>
+        <amplitudeID>20150120.112946.10-AIC-WM.IFR..HHZ.Mpd</amplitudeID>
+        <waveformID networkCode="WM" stationCode="IFR" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.022532Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="Origin#20150120113054.50166.538#staMag.mb#WM.IFR">
+        <magnitude>
+          <value>3.024612891</value>
+        </magnitude>
+        <type>mb</type>
+        <amplitudeID>20150120.112946.10-AIC-WM.IFR..HHZ.mb</amplitudeID>
+        <waveformID networkCode="WM" stationCode="IFR" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.022751Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <magnitude publicID="Origin#20150120113054.50166.538#netMag.Mpd">
+        <magnitude>
+          <value>4.261684452</value>
+          <uncertainty>0.2613008616</uncertainty>
+        </magnitude>
+        <type>Mpd</type>
+        <methodID>trimmed mean(25)</methodID>
+        <stationCount>11</stationCount>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.02286Z</creationTime>
+        </creationInfo>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.EADA</stationMagnitudeID>
+          <weight>0.375</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.EBAD</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.ECAB</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.ECEU</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.EGRO</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.EMIJ</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#ES.EMIN</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#PM.PBDV</stationMagnitudeID>
+          <weight>0</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#PM.PCVE</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#PM.PNCL</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#PM.PVAQ</stationMagnitudeID>
+          <weight>0.375</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#WM.EVO</stationMagnitudeID>
+          <weight>0</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.Mpd#WM.IFR</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+      </magnitude>
+      <magnitude publicID="Origin#20150120113054.50166.538#netMag.mb">
+        <magnitude>
+          <value>3.024612891</value>
+          <uncertainty>0</uncertainty>
+        </magnitude>
+        <type>mb</type>
+        <methodID>mean</methodID>
+        <stationCount>1</stationCount>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.023266Z</creationTime>
+        </creationInfo>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>Origin#20150120113054.50166.538#staMag.mb#WM.IFR</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+      </magnitude>
+      <magnitude publicID="Origin#20150120113054.50166.538#netMag.M">
+        <magnitude>
+          <value>3.86262911</value>
+        </magnitude>
+        <type>M</type>
+        <methodID>weighted average</methodID>
+        <stationCount>11</stationCount>
+        <creationInfo>
+          <agencyID>roa</agencyID>
+          <author>scmag@sysop</author>
+          <creationTime>2015-01-20T11:30:55.023371Z</creationTime>
+        </creationInfo>
+      </magnitude>
+    </origin>
+    <event publicID="gfz2015bjph">
+      <preferredOriginID>Origin#20150120113054.50166.538</preferredOriginID>
+      <preferredMagnitudeID>Origin#20150120113054.50166.538#netMag.M</preferredMagnitudeID>
+      <creationInfo>
+        <agencyID>roa</agencyID>
+        <author>scevent@sysop</author>
+        <creationTime>2015-01-20T11:30:26.796944Z</creationTime>
+        <modificationTime>2015-01-20T11:30:55.94508Z</modificationTime>
+      </creationInfo>
+      <description>
+        <text>Azores Cape St. Vincent Ridge</text>
+        <type>region name</type>
+      </description>
+      <originReference>Origin#20150120113054.50166.538</originReference>
+    </event>
+  </EventParameters>
+</seiscomp>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OriginDataWidget</class>
+ <widget class="QWidget" name="OriginDataWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>370</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>SORGES origin data</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../images/logo.qrc">
+    <normaloff>:/Logo_sorges.png</normaloff>:/Logo_sorges.png</iconset>
+  </property>
+  <widget class="QLabel" name="timestamp">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>51</y>
+     <width>76</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Timestamp</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_timestamp">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>51</y>
+     <width>301</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="latitude">
+   <property name="geometry">
+    <rect>
+     <x>85</x>
+     <y>90</y>
+     <width>61</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>  latitude</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="epicenter">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>90</y>
+     <width>69</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Epicenter:</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_latitude">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>90</y>
+     <width>231</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="lineWidth">
+    <number>1</number>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="stations">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>197</y>
+     <width>113</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Related Stations</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_stations">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>220</y>
+     <width>381</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_longitude">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>121</y>
+     <width>231</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="longitude">
+   <property name="geometry">
+    <rect>
+     <x>91</x>
+     <y>121</y>
+     <width>66</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>longitude</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="originid">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>11</y>
+     <width>61</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Origin ID</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_originid">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>11</y>
+     <width>311</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_magnitude">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>160</y>
+     <width>301</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="magnitude">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>160</y>
+     <width>74</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Magnitude</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="../images/logo.qrc"/>
+ </resources>
+ <connections/>
+</ui>
